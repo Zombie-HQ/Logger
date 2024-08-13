@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/root/workspace/Logger/build/lib",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/include -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -o CMakeFiles/Logger.dir/Logger.cpp.o -c /root/workspace/Logger/lib/Logger.cpp",
+  "file": "/root/workspace/Logger/lib/Logger.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/spdlog.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/spdlog.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/stdout_sinks.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/stdout_sinks.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/color_sinks.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/color_sinks.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/file_sinks.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/file_sinks.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/async.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/async.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/cfg.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/cfg.cpp"
+},
+{
+  "directory": "/root/workspace/Logger/build/third_party/spdlog",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/root/workspace/Logger/third_party/spdlog/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /root/workspace/Logger/third_party/spdlog/src/bundled_fmtlib_format.cpp",
+  "file": "/root/workspace/Logger/third_party/spdlog/src/bundled_fmtlib_format.cpp"
+}
+]
