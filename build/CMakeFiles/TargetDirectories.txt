@@ -1,8 +1,0 @@
-/root/workspace/Logger/build/CMakeFiles/edit_cache.dir
-/root/workspace/Logger/build/CMakeFiles/rebuild_cache.dir
-/root/workspace/Logger/build/lib/CMakeFiles/Logger.dir
-/root/workspace/Logger/build/lib/CMakeFiles/edit_cache.dir
-/root/workspace/Logger/build/lib/CMakeFiles/rebuild_cache.dir
-/root/workspace/Logger/build/third_party/spdlog/CMakeFiles/spdlog.dir
-/root/workspace/Logger/build/third_party/spdlog/CMakeFiles/edit_cache.dir
-/root/workspace/Logger/build/third_party/spdlog/CMakeFiles/rebuild_cache.dir
